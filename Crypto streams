@@ -1,6 +1,7 @@
 # Domains used to spread around crypto fraud/scams. You can learn more about this scam with https://youtu.be/5FzsM3V5xRo
 # Most of these domains have been reported to google safe browsse but considering this is google these scams go on weeks after a report. 
 # A good majority come from russian registers making it almost imposible to do a take down. 
+# REG.RU LLC , 
 
 0.0.0.0 adadrop22.net
 0.0.0.0 ark-think.net
@@ -8,3 +9,10 @@
 0.0.0.0 xrprise.org
 0.0.0.0 adaevents22.com
 0.0.0.0 ether-drop.net
+0.0.0.0 muskwood.net
+0.0.0.0 x2-ark.org
+0.0.0.0 ethereum2022event.com
+0.0.0.0 microscan.org
+0.0.0.0 arkgift22.net
+0.0.0.0 arkbigevent.com
+0.0.0.0 go-ada.org
